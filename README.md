@@ -17,7 +17,7 @@ In addition, I merged so many UIs in a scence that would make drawcall, hope som
 
 ----------------------------------------------------
 
-Game Demo Video view: https://drive.google.com/file/d/1nTAyj-CJ8aEC-nhPgou9EivY8y49S4KI/view?usp=sharing
+Game Demo Video view: https://www.youtube.com/watch?v=pMuZNMSofMY
 
 
 (Please forgive my poor English, I spell the wrong word too much)
