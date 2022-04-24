@@ -1,5 +1,5 @@
 # 3D OnlineChessGame
-Unity+Photon+Firebase
+Unity+Photon Unity Network 2 (PUN2)+Firebase
 
 Introduction
 ----------------------------------------------------
@@ -7,6 +7,10 @@ Hi Guys, this project is an online chess game that provides the basic chess game
 
 This game uses 3D CG instead of traditional 2D graphic, it provides a better visualization to players via this game. And also, the players must connect to the network to run the game and keep to connect to ensure the whole process for each game.
 
+Tools Architecture:
+1.	Unity for the game engine to implement the entity game objects and UIs, 
+2.	Firebase for the networking backend APIs of user authentication, 
+3.	Photon for the networking backend APIs of core gameplay.
 
 
 
