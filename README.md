@@ -12,7 +12,7 @@ This game uses 3D CG instead of traditional 2D graphic, it provides a better vis
 
 Bugs/Issues
 ----------------------------------------------------
-If you master or has some experience, please build an online architecture for gameplay data transaction and authentication by yourself.
+If you master or has some experience on the network development, please build an online architecture for gameplay data transaction and authentication by yourself.
 In addition, I merged so many UIs in a scence that would make drawcall, hope someone to deal with it.
 
 
