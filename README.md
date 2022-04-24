@@ -1,4 +1,4 @@
-# OnlineChessGame
+# 3D OnlineChessGame
 Unity+Photon+Firebase
 
 Hi Guys, This project is an online chess game that provides the basic chess game like that but simplifys the game rules on stalemate because of my study.
