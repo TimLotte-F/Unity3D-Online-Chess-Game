@@ -9,3 +9,5 @@ If you master or has some experience, please build an online architecture for ga
 In addition, I merged so many UI in one scence that would make drawcall, hope someone to fixed them.
 
 Game Demo Video view: https://drive.google.com/file/d/1nTAyj-CJ8aEC-nhPgou9EivY8y49S4KI/view?usp=sharing
+
+(Please Forgive my poor English, I spell the wrong word too much)
